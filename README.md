@@ -2,7 +2,7 @@
 
 <br>
 
-![metaversus](https://socialify.git.ci/kranthikumarkaranam/metaversus/image?description=1&font=Bitter&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fkranthikumarkaranam%2Fmetaversus%2Fd18d742fc6a05fc570e89b1df5f68c31cb9b9864%2Fpublic%2FREADME_metaversus.svg&name=1&owner=1&theme=Auto)
+![metaversus](https://socialify.git.ci/kranthikumarkaranam/metaversus/image?description=1&font=KoHo&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fkranthikumarkaranam%2Fmetaversus%2F57f8ae76b0fa22dad98ac5d1d227e9aa4acf90e1%2Fpublic%2FREADME_metaversus.svg&name=1&owner=1&theme=Auto)
 
 <p align="center" id="description" >Metaversus is an innovative project that aims to create an immersive metaverse experience for its users. By utilizing the latest virtual reality technology, Metaversus will allow users to explore and interact with a vast virtual world that feels just as real as the physical world. With Metaversus, users can turn their wildest dreams into reality and experience things that were once impossible. Our team is dedicated to creating a unique and unforgettable metaverse experience that will push the boundaries of what is possible in the virtual world. Join us on this exciting journey and discover the madness of the metaverse with Metaversus.</p>
 
